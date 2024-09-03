@@ -5,7 +5,7 @@ import threading
 # Server settings:
 server_port = 5051
 buffer_size = 1024
-broadcast_ip = '192.168.1.255'
+broadcast_ip = '192.X.X.255'
 
 # to get and save the user names :
 client_name = None
